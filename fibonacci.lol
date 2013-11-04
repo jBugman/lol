@@ -1,0 +1,33 @@
+OBTW
+
+def fib(index):
+  if index < 2:
+      return 1
+  else:
+      return fib(index - 1) + fib(index - 2)
+
+for x in range(10):
+    print fib(x)
+
+TLDR
+HAI 1.3
+  CAN HAS STDIO?
+
+HOW IZ I FIBONACCI YR INDEX
+  DIFFRINT INDEX AN BIGGR OF INDEX AN 2
+  O RLY?
+    YA RLY
+      FOUND YR 1
+    NO WAI
+      I HAS A PREV ITZ I IZ FIBONACCI YR DIFF OF INDEX AN 1 MKAY
+      I HAS A PREV2 ITZ I IZ FIBONACCI YR DIFF OF INDEX AN 2 MKAY
+      FOUND YR SUM OF PREV AN PREV2
+  OIC
+IF U SAY SO
+
+IM IN YR LOOP UPPIN YR I WILE NOT BOTH SAEM I AN 15
+  VISIBLE I IZ FIBONACCI YR I MKAY
+IM OUTTA YR LOOP
+
+KTHXBYE
+BTW AWSUM!
